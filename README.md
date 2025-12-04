@@ -5,8 +5,10 @@
 *November 2025*
 
 ---
-
-![Der Ultimative Guide zu Buffer Overflows](buffer-over.png)
+<div align="center">
+  <img src="recontools.png" width="400" alt="AlienTec Recon PRO Logo">
+</div>
+![AlienTec Recon PRO](recontools.png)
 
 ---
 
