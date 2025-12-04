@@ -5,10 +5,8 @@
 *November 2025*
 
 ---
-<div align="center">
-  <img src="recontools.png" width="400" alt="AlienTec Recon PRO Logo">
-</div>
-![AlienTec Recon PRO](recontools.png)
+
+![DER Ultimative BufferOverflow Guide](buffer-over.png)
 
 ---
 
