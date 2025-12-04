@@ -5,9 +5,11 @@
 *November 2025*
 
 ---
+<div align="center">
+  <img src="buffer-over.png" width="400" alt="ultimative buffer">
 
 ![DER Ultimative BufferOverflow Guide](buffer-over.png)
-
+</div>
 ---
 
 ## Inhaltsverzeichnis
